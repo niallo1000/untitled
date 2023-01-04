@@ -34,7 +34,7 @@
   ],
   "devDependencies": {
     "@storybook/addon-actions": "^4.1.16",
-    "@storybook/react": "^4.1.16",
+    "@storybook/react": "^6.5.15",
     "cypress": "^3.3.1"
   }
 }
